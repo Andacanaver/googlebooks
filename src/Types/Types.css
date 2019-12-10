@@ -1,0 +1,13 @@
+.types p {
+    font-weight: 700;
+    margin-right: 5px;
+}
+.types {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: lightgray;
+}
+.types select {
+    margin-right: 10px;    
+}
